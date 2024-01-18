@@ -1,5 +1,5 @@
 
-package LMS;
+package lms;
 
 // Including Header Files.
 import java.io.*;
